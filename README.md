@@ -27,11 +27,12 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![Screenshot 2023-11-19 213313](https://github.com/NagalapuramHasif/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149365567/d3838f33-2849-4406-82b3-b2aba7ddc124)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+![Screenshot 2023-11-19 213352](https://github.com/NagalapuramHasif/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149365567/f7ab1c27-c325-4934-8024-ecb455e15cb2)
 
 ## Output:
+![Screenshot 2023-11-18 112151](https://github.com/NagalapuramHasif/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149365567/649d6a50-020c-43a4-a19d-4b15cb14152a)
 
 ### Name:
 ### Register Number:
